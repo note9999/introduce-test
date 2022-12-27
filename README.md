@@ -22,7 +22,7 @@ sanghoon273@gmail.com
 sanghoon703@naver.com
 
  🙉**Github**
-[https://github.com/note9999
+[https://github.com/note9999]
 
 # 💪 Skills
 

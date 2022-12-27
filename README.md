@@ -56,12 +56,11 @@ sanghoon703@naver.com
 # 🌄 Education (내용)
 
 ---
-국비지원 JAVA(자바) 프로그래밍 웹개발자 수료 
-2022.11.14~ 2023.03.08
 
-## **easyupclass 스프링부트 인스타그램**
+## **국비지원 JAVA(자바) 프로그래밍 웹개발자 수료 
+2022.11.14~ 2023.03.08**
 
-[https://easyupclass.e-itwill.com/classroom/index.jsp?cuid=1019](https://easyupclass.e-itwill.com/classroom/index.jsp?cuid=1019)
+
 
 ### ****스프링부트 SNS프로젝트 - 포토그램 만들기****
 

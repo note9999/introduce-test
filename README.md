@@ -47,7 +47,7 @@ sanghoon703@naver.com
 
 # ⌨️ Work Experience & Projects
 
------진행중----
+---진행중---
 
 
 # 💡 Projects

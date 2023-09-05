@@ -38,7 +38,7 @@ sanghoon703@naver.com
 
 ## DevOps
 
-- MySQL, Oracle, MariaDB
+- MySQL, Oracle, MariaDB, PostgreSQL
 
 ## Frontend
 
@@ -47,23 +47,18 @@ sanghoon703@naver.com
 
 # ⌨️ Work Experience & Projects
 
----진행중---
-
+2023.03.22~
+스마트도시협회 sw개발자
+협회홈페이지개발 : http://wsce.smartcity.or.kr
+스마트도시안전망서비스 고도화
 
 # 💡 Projects
-
---진행중--
 
 
 # 🌄 Education (내용)
 
 ## 국비지원 JAVA(자바) 프로그래밍 웹개발자 수료 
 2022.11.14~ 2023.03.08
-
-
-### 수정 및 진행중
-
--수정 및 진행중-
 
 ## 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
 
@@ -91,7 +86,6 @@ sanghoon703@naver.com
 - 웹 계층 개발
 - 테스트
 - 성능 최적화
-
 
 
 ### 자바8에 대한 학습과 이해를 위해 강의 수강

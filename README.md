@@ -47,10 +47,10 @@ sanghoon703@naver.com
 
 # ⌨️ Work Experience & Projects
 
-2023.03.22~
-스마트도시협회 sw개발자
-협회홈페이지개발 : http://wsce.smartcity.or.kr
-스마트도시안전망서비스 고도화
+-2023.03.22~
+-스마트도시협회 sw개발자
+-협회홈페이지개발 : http://wsce.smartcity.or.kr
+-스마트도시안전망서비스 고도화
 
 # 💡 Projects
 

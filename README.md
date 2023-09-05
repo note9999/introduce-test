@@ -34,7 +34,7 @@ sanghoon703@naver.com
 - Spring MVC, Spring Boot
 - Maven, Gradle
 - Eclipse, Visual Studio Code , IntelliJ IDEA
-- Git
+- Git,SVN
 
 ## DevOps
 
